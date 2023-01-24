@@ -1,4 +1,4 @@
-[
+{ "users": [
     {
       "id": 1,
       "first_name": "Enrikaasdadsa",
@@ -458,4 +458,4 @@
       "role": "Construction Manager",
       "lastLogin": "23/01/2023"
     }
-  ]
+  ]}
